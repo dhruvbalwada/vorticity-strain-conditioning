@@ -16,7 +16,7 @@ Applied to a set of idealized Antarctic Circumpolar Current simulations that var
 
 
 
-**Reproduction Notes**  
+**Reproducibility Notes**  
 This repository has all the jupyter notebooks needed to do the analysis presented in this paper, and reproduce the figures. 
 
 All the analysis for the paper can be done on google cloud ([Abernathey et al 2020](https://www.authorea.com/doi/full/10.22541/au.160443768.88917719/v2)). The data for the 10 day snapshot are at: https://catalog.pangeo.io/browse/master/ocean/channel/. The analysis for section 3b (Figures 10-14) requires access to daily snapshot data, which are not on the cloud; the analysis scripts for these are present in this repo. Users can contact us if they would like access to this data. 
