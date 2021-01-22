@@ -1,7 +1,7 @@
-## Vertical fluxes conditioned on vorticity and strain reveal submesoscale ventilation
-### Dhruv Balwada, Qiyu Xiao, Shafer Smith, Ryan Abernathey & Alison R. Gray 
-### January 2021
-### Submitted to Journal of Physical Oceanography
+## Vertical fluxes conditioned on vorticity and strain reveal submesoscale ventilation  
+### Dhruv Balwada, Qiyu Xiao, Shafer Smith, Ryan Abernathey & Alison R. Gray  
+### January 2021  
+### Submitted to Journal of Physical Oceanography  
 
 
 ![Flux contributions in vorticity-strain space (Figure 11 in paper)](figure11.png)   
