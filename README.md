@@ -4,7 +4,7 @@
 ### Submitted to Journal of Physical Oceanography
 
 
-![Flux contributions in vorticity-strain space](figure10se.png)   
+![Flux contributions in vorticity-strain space (Figure 11 in paper)](figure11.png)   
 
 **Abstract**  
 It has been hypothesized that submesoscale flows play an important role in the vertical transport of climatically important tracers, due to their strong associated vertical velocities. However, the multi-scale, non-linear and Lagrangian nature of transport makes it challenging to attribute proportions of the tracer fluxes to certain processes, scales, regions or flow features.
