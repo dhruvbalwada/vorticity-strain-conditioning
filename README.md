@@ -3,6 +3,9 @@
 ### January 2021
 ### Submitted to Journal of Physical Oceanography
 
+
+![Flux contributions in vorticity-strain space](figure10se.png)   
+
 **Abstract**  
 It has been hypothesized that submesoscale flows play an important role in the vertical transport of climatically important tracers, due to their strong associated vertical velocities. However, the multi-scale, non-linear and Lagrangian nature of transport makes it challenging to attribute proportions of the tracer fluxes to certain processes, scales, regions or flow features.
 Here we show that the surface vorticity and strain joint probability distribution function (JPDF) effectively decomposes the surface velocity field into distinguishable flow features like fronts and eddies. 
@@ -13,7 +16,7 @@ Applied to a set of idealized Antarctic Circumpolar Current simulations that var
 
 
 
-**Notes**  
+**Reproduction Notes**  
 This repository has all the jupyter notebooks needed to do the analysis presented in this paper, and reproduce the figures. 
 
 All the analysis for the paper can be done on google cloud. The data for the 10 day snapshot are at: https://catalog.pangeo.io/browse/master/ocean/channel/ . The analysis for section 3b requires access to daily snapshot data, which not on the cloud. Users can contact us if they would like access to it. 
